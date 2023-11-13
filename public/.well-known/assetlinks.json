@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.next_pwa_blue.twa",
-        "sha256_cert_fingerprints": ["D4:DF:12:FA:4F:B4:99:D5:20:C1:39:08:0A:8E:5F:F9:76:D1:37:16:67:A1:AC:02:A3:C8:0D:89:04:B8:30:DA"]
+        "sha256_cert_fingerprints": ["A3:65:33:0B:2B:14:26:42:A6:7D:6C:F6:68:5C:E4:4F:D3:29:2C:C2:7A:B1:72:40:6C:A1:2F:E8:44:78:48:6C"]
       }
     }]
