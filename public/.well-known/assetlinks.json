@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.next_pwa_blue.twa",
+        "sha256_cert_fingerprints": ["D4:DF:12:FA:4F:B4:99:D5:20:C1:39:08:0A:8E:5F:F9:76:D1:37:16:67:A1:AC:02:A3:C8:0D:89:04:B8:30:DA"]
+      }
+    }]
